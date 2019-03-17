@@ -1,0 +1,61 @@
+{
+  "marketplaces": [
+    {
+      "id": 1,
+      "title": "Пятерочка",
+      "imgSrc": "img/five.png",
+      "rating": "4,2",
+      "descr": "Самые низкие цены",
+      "discount": "10 - 20",
+      "like": false
+    },
+    {
+      "id": 2,
+      "title": "Перекресток",
+      "imgSrc": "img/cross.png",
+      "rating": "4,8",
+      "descr": "Lorem Ipsum - это текст-'рыба', часто используемый в печати и вэб-дизайне.",
+      "discount": "2",
+      "like": false
+    },
+    {
+      "id": 3,
+      "title": "Магнит",
+      "imgSrc": "img/magnit.jpg",
+      "rating": "4,3",
+      "descr": "Классический текст Lorem Ipsum, используемый с XVI века",
+      "discount": "8",
+      "like": false
+    },
+    {
+      "id": 4,
+      "title": "Fit Service",
+      "imgSrc": "img/fit.png",
+      "rating": "4,1",
+      "descr": "Fit service автосервис",
+      "discount": "3",
+      "like": false
+    },
+    {
+      "id": 5,
+      "title": "Самовар",
+      "imgSrc": "img/samovar.png",
+      "rating": "4,6",
+      "descr": "Есть много вариантов Lorem Ipsum,",
+      "discount": "3",
+      "like": false
+    },
+    {
+      "id": 6,
+      "title": "Delivery Club",
+      "imgSrc": "img/delcl.png",
+      "rating": "4,7",
+      "descr": "Lorem Ipsum выглядит правдоподобно",
+      "discount": "5 - 15",
+      "like": false
+    }
+  ],
+  "likes": [
+    {}
+  ]
+}
