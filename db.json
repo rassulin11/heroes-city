@@ -6,8 +6,7 @@
       "imgSrc": "img/five.png",
       "rating": "4,2",
       "descr": "Самые низкие цены",
-      "discount": "10 - 20",
-      "like": false
+      "discount": "10 - 20"
     },
     {
       "id": 2,
@@ -15,8 +14,7 @@
       "imgSrc": "img/cross.png",
       "rating": "4,8",
       "descr": "Lorem Ipsum - это текст-'рыба', часто используемый в печати и вэб-дизайне.",
-      "discount": "2",
-      "like": false
+      "discount": "2"
     },
     {
       "id": 3,
@@ -24,8 +22,7 @@
       "imgSrc": "img/magnit.jpg",
       "rating": "4,3",
       "descr": "Классический текст Lorem Ipsum, используемый с XVI века",
-      "discount": "8",
-      "like": false
+      "discount": "8"
     },
     {
       "id": 4,
@@ -33,8 +30,7 @@
       "imgSrc": "img/fit.png",
       "rating": "4,1",
       "descr": "Fit service автосервис",
-      "discount": "3",
-      "like": false
+      "discount": "3"
     },
     {
       "id": 5,
@@ -42,8 +38,7 @@
       "imgSrc": "img/samovar.png",
       "rating": "4,6",
       "descr": "Есть много вариантов Lorem Ipsum,",
-      "discount": "3",
-      "like": false
+      "discount": "3"
     },
     {
       "id": 6,
@@ -51,11 +46,7 @@
       "imgSrc": "img/delcl.png",
       "rating": "4,7",
       "descr": "Lorem Ipsum выглядит правдоподобно",
-      "discount": "5 - 15",
-      "like": false
+      "discount": "5 - 15"
     }
-  ],
-  "likes": [
-    {}
   ]
 }
